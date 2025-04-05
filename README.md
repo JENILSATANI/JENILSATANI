@@ -5,6 +5,11 @@
   <img src="assets/profile.jpg" width="200" alt="Jenil Satani - JPEMPIRE">
 </p>
 
+<h2 align="center">🚀 Welcome to My Portfolio! 🚀</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Node.js+Developer+%7C+Backend+Expert;Building+Scalable+Applications;Passionate+about+Tech+and+Innovation" alt="Typing Animation">
+</p>
 
 Welcome to my portfolio repository! This is where I showcase my projects, skills, and experience as a developer.
 
