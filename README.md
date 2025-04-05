@@ -81,7 +81,8 @@ Check out more projects in the **[Projects](./projects)** directory.
 </p>
 
 ## 📜 Quote
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> **"Code is like humor. When you have to explain it, it’s bad."** – *Cory House*
+
 
 ## 🔥 Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
