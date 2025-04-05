@@ -1,5 +1,11 @@
 # 🌟 Jenil Satani Portfolio
 
+
+<p align="center">
+  <img src="assets/profile.jpg" width="200" alt="Jenil Satani - JPEMPIRE">
+</p>
+
+
 Welcome to my portfolio repository! This is where I showcase my projects, skills, and experience as a developer.
 
 ## 🚀 About Me
