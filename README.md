@@ -35,7 +35,7 @@ Check out more projects in the **[Projects](./projects)** directory.
   <a href="https://github.com/JENILSATANI" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/satanijenili" target="_blank">
+  <a href="https://www.linkedin.com/in/satanijenil" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
