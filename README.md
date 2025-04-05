@@ -31,9 +31,14 @@ Check out more projects in the **[Projects](./projects)** directory.
 - Tools & Technologies: **MongoDB, PostgreSQL, Docker, AWS**
 
 ## 📫 Connect with Me
-- GitHub: [github.com/JPEMPIRE](https://github.com/JENILSATANI)
-- LinkedIn: [linkedin.com/in/satanijenili](https://www.linkedin.com/in/satanijenili)
-<!-- - Portfolio Website: [yourwebsite.com](https://yourwebsite.com) -->
+<p align="left">
+  <a href="https://github.com/JPEMPIRE" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/satanijenili" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 Feel free to explore my work and get in touch if you have any questions or collaboration ideas!
 
