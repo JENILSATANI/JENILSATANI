@@ -89,6 +89,8 @@ Check out more projects in the **[Projects](./projects)** directory.
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400" alt="Coding GIF">
 </p>
 
+<h3 align="center">🚀 "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler 💡</h3>
+
 ## 🎥 Featured Project Demos
 🚀 **(To be updated soon)** 🚀
 
