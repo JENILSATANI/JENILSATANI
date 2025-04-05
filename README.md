@@ -1,8 +1,7 @@
 # 🌟 Jenil Satani Portfolio
 
-
 <p align="center">
-  <img src="assets/profile.jpg" width="200" alt="Jenil Satani - JPEMPIRE">
+  <img src="assets/jenil.png" alt="Jenil Satani Banner" width="100%">
 </p>
 
 <h2 align="center">🚀 Welcome to My Portfolio! 🚀</h2>
