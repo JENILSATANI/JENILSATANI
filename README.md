@@ -26,7 +26,7 @@ Hi, I'm **Jenil Satani** (also known as **JPEMPIRE**), a passionate **Node.js De
 ## 🔥 What I Do
 - 🌐 **Backend Development**: Building RESTful APIs with Node.js & Express.js  
 - 🛢 **Database Management**: MongoDB, PostgreSQL, Redis  
-- ☁ **Cloud & DevOps**: Docker, AWS,
+- ☁ **Cloud & DevOps**: Docker, AWS
 - ⚡ **Performance Optimization**: Writing efficient & scalable code  
 
 ## 📂 Projects
