@@ -51,7 +51,7 @@ Check out more projects in the **[Projects](./projects)** directory.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JENILSATANI&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JENILSATANI&show_icons=true&theme=radical&cache_seconds=3600" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -61,6 +61,14 @@ Check out more projects in the **[Projects](./projects)** directory.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JENILSATANI&theme=radical" alt="GitHub Streak" />
 </p>
+
+### 📢 GitHub Followers
+![GitHub Followers](https://img.shields.io/github/followers/JENILSATANI?style=social)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JENILSATANI&theme=radical" alt="GitHub Trophies" />
+</p>
+
 
 ## 📫 Connect with Me
 <p align="left">
