@@ -32,7 +32,7 @@ Check out more projects in the **[Projects](./projects)** directory.
 
 ## 📫 Connect with Me
 - GitHub: [github.com/JPEMPIRE](https://github.com/JENILSATANI)
-- LinkedIn: [linkedin.com/in/jenilsatani](www.linkedin.com/in/satanijenili)
+- LinkedIn: [linkedin.com/in/satanijenili](https://www.linkedin.com/in/satanijenili)
 <!-- - Portfolio Website: [yourwebsite.com](https://yourwebsite.com) -->
 
 Feel free to explore my work and get in touch if you have any questions or collaboration ideas!
