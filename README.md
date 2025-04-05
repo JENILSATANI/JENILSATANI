@@ -11,8 +11,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Node.js+Developer+%7C+Backend+Expert;Building+Scalable+Applications;Passionate+about+Tech+and+Innovation" alt="Typing Animation">
 </p>
 
-<p align="center" style="background-color:#1E1E1E; padding:20px; border-radius:10px;">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400" alt="Coding GIF">
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
 </p>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=JPEMPIRE&color=blue&style=flat-square)
