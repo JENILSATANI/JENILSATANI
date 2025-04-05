@@ -1,4 +1,4 @@
-# 🌟 Jenil Satani Portfolio
+<h1 align="center">🌟 Jenil Satani Portfolio 🌟</h1>
 
 <p align="center">
   <img src="assets/jenil.png" alt="Jenil Satani Banner" width="100%">
