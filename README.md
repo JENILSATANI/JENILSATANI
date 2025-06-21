@@ -20,18 +20,18 @@
   <img src="https://img.shields.io/github/stars/JENILSATANI?style=social" alt="GitHub Stars">
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" alt="Welcome Animation">
-</div>
+</div> -->
 
 Welcome to my portfolio repository! I'm a passionate **Node.js Developer** with expertise in building scalable backend solutions and RESTful APIs. This repository showcases my projects, technical skills, and professional journey in software development.
 
 ## 🚀 About Me
 Hi, I'm **Jenil Satani** (also known as **JPEMPIRE**), a dedicated **Node.js Developer** with a passion for creating robust, scalable applications. I specialize in backend development and love turning complex problems into simple, beautiful solutions.
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/LnKonfpQhRgv6/giphy.gif" width="200" alt="Developer Animation">
-</div>
+</div> -->
 
 ### 🎯 What Drives Me
 - 💻 **Problem Solving**: Finding elegant solutions to complex technical challenges
@@ -130,16 +130,16 @@ Check out more projects in the **[Projects](./projects)** directory.
   <img src="https://github-profile-trophy.vercel.app/?username=JENILSATANI&theme=radical" alt="GitHub Trophies" />
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" alt="Achievements Animation">
-</div>
+</div> -->
 
 ## 📫 Let's Connect!
 I'm always open to discussing new opportunities, collaborations, or just having a chat about technology!
-
+<!-- 
 <div align="center">
   <img src="https://media.giphy.com/media/LnKonfpQhRgv6/giphy.gif" width="200" alt="Connect Animation">
-</div>
+</div> -->
 
 <p align="left">
   <a href="https://github.com/JENILSATANI" target="_blank">
@@ -187,19 +187,19 @@ I'm always open to discussing new opportunities, collaborations, or just having 
 - 🎮 Love exploring new technologies and frameworks
 - 🌍 Passionate about open source and community contribution
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" alt="Fun Facts Animation">
-</div>
+</div> -->
 
 ---
 
 ### ⭐️ **Star this repository if you find my work interesting!**
 
 ### 📧 **Feel free to reach out for collaborations, opportunities, or just to say hello!**
-
+<!-- 
 <div align="center">
   <img src="https://media.giphy.com/media/LnKonfpQhRgv6/giphy.gif" width="150" alt="Thank You Animation">
-</div>
+</div> -->
 
 ---
 
