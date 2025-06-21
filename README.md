@@ -46,10 +46,10 @@ Hi, I'm **Jenil Satani** (also known as **JPEMPIRE**), a dedicated **Node.js Dev
 - ⚡ **Performance Optimization**: Writing efficient & scalable code  
 - 🔒 **Security**: Implementing secure authentication and authorization
 - 📊 **API Design**: Creating well-documented and maintainable APIs
-
+<!-- 
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Coding Skills">
-</div>
+</div> -->
 
 ## 📂 Featured Projects
 
@@ -108,9 +108,9 @@ Check out more projects in the **[Projects](./projects)** directory.
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Tech Stack Animation">
-</div>
+</div> -->
 
 ## 📊 GitHub Analytics
 <p align="center">
@@ -165,9 +165,9 @@ I'm always open to discussing new opportunities, collaborations, or just having 
 - 📚 **Learning** - Mentorship and knowledge sharing
 - 💼 **Career Growth** - Full-time opportunities in backend development
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Goals Animation">
-</div>
+</div> -->
 
 <p align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400" alt="Coding GIF">
