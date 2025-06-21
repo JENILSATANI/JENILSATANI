@@ -29,6 +29,10 @@ Welcome to my portfolio repository! I'm a passionate **Node.js Developer** with 
 ## 🚀 About Me
 Hi, I'm **Jenil Satani** (also known as **JPEMPIRE**), a dedicated **Node.js Developer** with a passion for creating robust, scalable applications. I specialize in backend development and love turning complex problems into simple, beautiful solutions.
 
+<div align="center">
+  <img src="https://media.giphy.com/media/LnKonfpQhRgv6/giphy.gif" width="200" alt="Developer Animation">
+</div>
+
 ### 🎯 What Drives Me
 - 💻 **Problem Solving**: Finding elegant solutions to complex technical challenges
 - 🚀 **Innovation**: Exploring cutting-edge technologies and best practices
@@ -42,6 +46,10 @@ Hi, I'm **Jenil Satani** (also known as **JPEMPIRE**), a dedicated **Node.js Dev
 - ⚡ **Performance Optimization**: Writing efficient & scalable code  
 - 🔒 **Security**: Implementing secure authentication and authorization
 - 📊 **API Design**: Creating well-documented and maintainable APIs
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Coding Skills">
+</div>
 
 ## 📂 Featured Projects
 
@@ -59,6 +67,10 @@ I'm currently working on some exciting projects that will be featured here soon!
 - **Open Source Contributions** - Community-driven projects
 
 Check out more projects in the **[Projects](./projects)** directory.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7abGIPEqc9RqM8yk/giphy.gif" width="250" alt="Projects Animation">
+</div>
 
 ## 📚 Currently Learning & Exploring
 - 🔥 **GraphQL** - Modern API query language
@@ -96,6 +108,10 @@ Check out more projects in the **[Projects](./projects)** directory.
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Tech Stack Animation">
+</div>
+
 ## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JENILSATANI&show_icons=true&theme=radical&cache_seconds=3600" alt="GitHub Stats" />
@@ -114,8 +130,16 @@ Check out more projects in the **[Projects](./projects)** directory.
   <img src="https://github-profile-trophy.vercel.app/?username=JENILSATANI&theme=radical" alt="GitHub Trophies" />
 </p>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" alt="Achievements Animation">
+</div>
+
 ## 📫 Let's Connect!
 I'm always open to discussing new opportunities, collaborations, or just having a chat about technology!
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnKonfpQhRgv6/giphy.gif" width="200" alt="Connect Animation">
+</div>
 
 <p align="left">
   <a href="https://github.com/JENILSATANI" target="_blank">
@@ -141,6 +165,16 @@ I'm always open to discussing new opportunities, collaborations, or just having 
 - 📚 **Learning** - Mentorship and knowledge sharing
 - 💼 **Career Growth** - Full-time opportunities in backend development
 
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Goals Animation">
+</div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400" alt="Coding GIF">
+</p>
+
+<h3 align="center">🚀 "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler 💡</h3>
+
 ## 🎥 Project Demos & Presentations
 🚀 **Coming Soon** - Video demonstrations and technical presentations of my projects! 🚀
 
@@ -153,11 +187,19 @@ I'm always open to discussing new opportunities, collaborations, or just having 
 - 🎮 Love exploring new technologies and frameworks
 - 🌍 Passionate about open source and community contribution
 
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" alt="Fun Facts Animation">
+</div>
+
 ---
 
 ### ⭐️ **Star this repository if you find my work interesting!**
 
 ### 📧 **Feel free to reach out for collaborations, opportunities, or just to say hello!**
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnKonfpQhRgv6/giphy.gif" width="150" alt="Thank You Animation">
+</div>
 
 ---
 
