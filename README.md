@@ -112,23 +112,6 @@ Check out more projects in the **[Projects](./projects)** directory.
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Tech Stack Animation">
 </div> -->
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JENILSATANI&show_icons=true&theme=radical&cache_seconds=3600" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JENILSATANI&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JENILSATANI&theme=radical" alt="GitHub Streak" />
-</p>
-
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JENILSATANI&theme=radical" alt="GitHub Trophies" />
-</p>
 
 <!-- <div align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" alt="Achievements Animation">
