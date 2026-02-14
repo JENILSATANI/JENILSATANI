@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Jenil Satani Portfolio 🌟</h1>
 
 <p align="center">
-  <img src="assets/jenil.png" alt="Jenil Satani Banner" width="100%">
+  <img src="assets/jpempire.png" alt="Jenil Satani Banner" width="100%">
 </p>
 
 <h2 align="center">🚀 Backend Engineer | Node.js | Scalable APIs 🚀</h2>
