@@ -3,10 +3,6 @@
   <p><b>Node.js Backend Developer | Scalable APIs | Clean Architecture</b></p>
 
   <p>
-    <img src="assets/jpempire.png" alt="Jenil Satani Banner" width="100%">
-  </p>
-
-  <p>
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=600&lines=Node.js+Backend+Developer;Building+Scalable+%26+Secure+APIs;Clean+Architecture+%7C+Performance+Focused" alt="Typing SVG" />
   </p>
 
@@ -40,13 +36,6 @@ I am a results-oriented **Node.js Backend Developer** passionate about engineeri
 | **Testing Utilities** | ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white) ![Chai](https://img.shields.io/badge/Chai-A30701?style=flat-square&logo=chai&logoColor=white) |
 | **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
 | **Architectures & Tools** | ![REST API](https://img.shields.io/badge/REST--API-009688?style=flat-square) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) |
-
-### 📊 GitHub Activity & Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JENILSATANI&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Jenil's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JENILSATANI&layout=compact&theme=tokyonight&hide_border=true" alt="Jenil's Top Languages" width="48%" />
-</p>
 
 ---
 
