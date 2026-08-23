@@ -47,6 +47,26 @@ I am a results-oriented **Node.js Backend Developer** passionate about engineeri
 
 ---
 
+### 🛠️ Featured Projects
+
+#### 🎰 [BidCards - Premium Card Bidding & Casino Arena](https://bid-cards.vercel.app/)
+*An exclusive High-Roller card bidding and live casino arcade platform featuring real-time mechanics and instant reward systems.*
+
+<p align="center">
+  <img src="assets/bid_cards.png" alt="BidCards Screenshot" width="600px" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.4);" />
+</p>
+
+* 🌐 **Live Demo**: [bid-cards.vercel.app](https://bid-cards.vercel.app/)
+* 📂 **Projects Breakdown**: [`projects/README.md`](projects/README.md)
+* 🛠️ **Tech Stack**: `Node.js` • `Express` • `React` • `Vite` • `Socket.io` • `MongoDB` • `Redis` • `JWT`
+* 📌 **Key Features**:
+  * **Live Arcade Games**: Integrated 12 premier live casino arcade games.
+  * **Real-time Bidding**: Sub-second latency updates and bidding mechanisms via WebSockets.
+  * **Leaderboard Engine**: Real-time rank tracking optimized via Redis Sorted Sets.
+  * **Secure VIP Access**: Cryptographically secured wallet integration and instant cashouts.
+
+---
+
 ### 🤝 Connect with Me
 
 <p align="left">
